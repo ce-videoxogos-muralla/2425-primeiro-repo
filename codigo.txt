@@ -2,3 +2,4 @@
 print("Hello world");
 // Esta liña escribina en Github
 load("asset.jpg")
+new mecanica();
